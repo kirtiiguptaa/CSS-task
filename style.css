@@ -196,6 +196,12 @@
 }
 
 @media (max-width: 399px) {
+    .top-section {
+        background: url(images/bg-pattern-top-mobile.svg);
+    }
+    .bottom-section {
+        background: url(images/bg-pattern-bottom-mobile.svg);
+    }
     .rating {
         flex-direction: column;
     }
